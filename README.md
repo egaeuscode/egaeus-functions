@@ -1,0 +1,2 @@
+Petición por POST con body => {"search":"bla bla bla"} => URL : https://us-central1-egaeus-75c1e.cloudfunctions.net/searchAlgorithm
+Para ejecutar los cambios y subirlo -> firebase deploy --only functions
